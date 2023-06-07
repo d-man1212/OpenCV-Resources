@@ -1,4 +1,4 @@
-# OpenCV Reference Functions
+# OpenCV Resources
 
 This repository contains code, reference functions, resources for using OpenCV, an open-source computer vision library, in Python. It contains some commonly used functions along with comments.
 ## Acknowledgements
