@@ -335,7 +335,3 @@ def videofacedetection():
 #facedetection("Images/chad.png")
 videofacedetection()
 cv2.destroyAllWindows()
-
-
-#1:29:01 / 3:09:07
-#https://youtu.be/WQeoO7MI0Bs?t=4542
