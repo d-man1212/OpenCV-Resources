@@ -10,5 +10,3 @@ This repository contains code, reference functions, resources for using OpenCV, 
 ## Authors
 
 - [@d-man1212](https://github.com/d-man1212)
-- [@VarunCypherV](https://github.com/VarunCypherV)
-
